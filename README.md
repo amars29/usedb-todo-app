@@ -1,5 +1,5 @@
-## Publish configuartion
+## Run
 
 ```
-php artisan vendor:publish --tag=config
+php artisan serve
 ```
